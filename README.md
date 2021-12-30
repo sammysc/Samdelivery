@@ -1,2 +1,2 @@
 # Samdelivery
-ocketseat's  bootcamp  app delivery elixir
+Rocketseat's  bootcamp  app delivery elixir
